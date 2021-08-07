@@ -1,6 +1,7 @@
 # Text2SpeechEditor
-
-
+**A text to speech converter written in java!**  
+  
+  
 There are three methods to run our program. Choose a method depending  
 on your Operational System.  
   
